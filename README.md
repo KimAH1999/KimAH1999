@@ -1,6 +1,6 @@
 ### Hello there, I'm Kim 👋
 
-[Resume.pdf](https://github.com/KimAH1999/KimAH1999/files/10715063/TechResume.pdf "download")
+[resume23.pdf](https://github.com/KimAH1999/KimAH1999/files/10855111/resume23.pdf "download")
 
 The UCSD Bootcamp Extension is how I obtained my certification. I want to improve my general front-end and back-end abilities and continue growing myself. By the end of Spring 2023, I will also have a Computer Programming certificate and GED from San Diego Mesa College.
 
